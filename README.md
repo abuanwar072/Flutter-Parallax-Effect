@@ -1,16 +1,13 @@
-# parallax_slide_animation
+# Parallax Scroll Effect with PageView in Flutter
 
-A new Flutter project.
+## [Watch it on YouTube](https://youtu.be/v_ozYdwKdaU)
 
-## Getting Started
+Learn how to create a parallax scroll effect in Flutter using the PageView widget.
 
-This project is a starting point for a Flutter application.
+Big thanks to Marcin Szałek for his article on Medium about this. Want to read it? Here's the [link](https://medium.com/flutter-community/parallax-effect-in-pageview-ui-tickets-challenge-bc9ba3d49dca) 
 
-A few resources to get you started if this is your first Flutter project:
+### Flutter Parallax Scroll Effect preview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![intro](intro.gif)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App UI](/ui.png)
