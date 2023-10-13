@@ -9,7 +9,7 @@ class SlidingCardsView extends StatefulWidget {
   const SlidingCardsView({super.key});
 
   @override
-  _SlidingCardsViewState createState() => _SlidingCardsViewState();
+  State<SlidingCardsView> createState() => _SlidingCardsViewState();
 }
 
 class _SlidingCardsViewState extends State<SlidingCardsView> {
